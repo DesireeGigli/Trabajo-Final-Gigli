@@ -5,6 +5,7 @@
 
 header{
     display: flex;
+    margin-top: 15px;
 }
 
 nav{
@@ -16,7 +17,12 @@ nav{
 
 h1{
     background-color: aquamarine;
-    padding-left: 50px;
+    padding-left: 100px;
     font-size: 20px;
  
+}
+
+.iconosredes {
+    padding-right: 100px;
+    background-color: aqua;
 }
