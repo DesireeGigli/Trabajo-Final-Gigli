@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    display: flex;
+}
+
+nav{
+     width: 800px;
+    background-color: pink;
+    margin: 0 auto;
+    font-size: 15px;
+}
+
+h1{
+    background-color: aquamarine;
+    padding-left: 50px;
+    font-size: 20px;
+ 
+}
